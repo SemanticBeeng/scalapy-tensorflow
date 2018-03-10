@@ -1,4 +1,6 @@
 .idea/
-lib/
+#lib/
 project/project
+project/.boot/
+project/.ivy/
 target/

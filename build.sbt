@@ -12,5 +12,5 @@ fork in run in Test := true
 javaOptions in run in Test += "-Djava.library.path=./lib/"
 javaOptions in runMain += "-Djava.library.path=./lib/"
 
-libraryDependencies += "me.shadaj" %% "scalapy" % "0.1.0-SNAPSHOT"
-libraryDependencies += "me.shadaj" %% "scalapy-numpy" % "0.1.0-SNAPSHOT"
+//libraryDependencies += "me.shadaj" %% "scalapy" % "0.1.0-SNAPSHOT"
+//libraryDependencies += "me.shadaj" %% "scalapy-numpy" % "0.1.0-SNAPSHOT"
